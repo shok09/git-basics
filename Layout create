@@ -9,4 +9,4 @@
 --add Microsoft.VisualStudio.Workload.Universal `
 --add Microsoft.VisualStudio.Component.Git `
 --includeRecommended `
---includeOptional by
+--includeOptional
