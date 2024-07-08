@@ -1,4 +1,4 @@
-.\vs_community.exe --layout "D:\Visual Studio 2019 Community Layout" `
+.\vs_community.exe --layout ".\Visual Studio 2019 Community Layout" `
 --lang en-US `
 --add Microsoft.VisualStudio.Workload.CoreEditor `
 --add Microsoft.VisualStudio.Workload.Data `
