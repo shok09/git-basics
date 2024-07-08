@@ -1,0 +1,10 @@
+.\vs_community.exe --noWeb `
+--add Microsoft.VisualStudio.Workload.CoreEditor `
+--add Microsoft.VisualStudio.Workload.Data `
+--add Microsoft.VisualStudio.Workload.ManagedDesktop `
+--add Microsoft.VisualStudio.Workload.NativeDesktop `
+--add Microsoft.VisualStudio.Workload.NetWeb `
+--add Microsoft.VisualStudio.Workload.Universal `
+--add Microsoft.VisualStudio.Component.Git `
+--includeRecommended `
+--includeOptional
